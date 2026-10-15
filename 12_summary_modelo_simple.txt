@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = Burnout_Score ~ Depression_Score, data = datos_muestra)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-19.277  -5.477   1.539   5.027  19.301 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)       5.64509    3.12603   1.806   0.0801 .  
+Depression_Score  0.84837    0.07048  12.036 1.29e-13 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 9.416 on 33 degrees of freedom
+Multiple R-squared:  0.8145,	Adjusted R-squared:  0.8089 
+F-statistic: 144.9 on 1 and 33 DF,  p-value: 1.288e-13
+
