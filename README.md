@@ -61,4 +61,3 @@ El dataset de Burnout registra 6 variables cuantitativas por individuo. El objet
 ![Apalancamiento por observación](outputs/figuras/09_leverage.png)
 ![Perfil de verosimilitud Box-Cox](outputs/figuras/07_boxplot_final.png)
 
-## Estructura del repositorio
