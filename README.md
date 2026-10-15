@@ -1,4 +1,4 @@
-# Modelado Estadístico del Desgaste Laboral (Burnout) — Grupo 8
+# Modelado Estadístico del Desgaste Laboral (Burnout) 
 
 Análisis de regresión lineal simple y múltiple sobre una muestra de 35 registros para identificar qué variables predicen el Burnout Score, cuantificar su impacto y validar el modelo mediante diagnóstico de supuestos, selección de variables y análisis de outliers.
 
@@ -59,6 +59,6 @@ El dataset de Burnout registra 6 variables cuantitativas por individuo. El objet
 
 ![Matriz de dispersión](outputs/figuras/01_matriz_dispersion.png)
 ![Apalancamiento por observación](outputs/figuras/09_leverage.png)
-![Perfil de verosimilitud Box-Cox](outputs/figuras/11_boxcox.png)
+![Perfil de verosimilitud Box-Cox](outputs/figuras/07_boxplot_final.png)
 
 ## Estructura del repositorio
